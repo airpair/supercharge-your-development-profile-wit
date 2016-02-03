@@ -1,6 +1,4 @@
-> Let's get real with the best real editor
-
-> Posts should start with a 30-50 word `blockquote` summary. Delete the above sentence and rewrite this blockquote when know what your post is covering.
+> Let's get real with the best real editor Posts should start with a 30-50 word `blockquote` summary. Delete the above sentence and rewrite this blockquote when know what your post is covering.
 
 # hey dude
 
